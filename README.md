@@ -1,4 +1,5 @@
 # GuessingGame
+
 A guessing game implementation in multiple languages.
 
 ## Introduction
@@ -21,5 +22,4 @@ The code given here is under the MIT License.
 
 ## Implimentations Added
 
-- [Python](https://github.com/DevParapalli/GuessingGame/Python)
-
+- [Python](https://github.com/DevParapalli/GuessingGame/tree/main/Python)
