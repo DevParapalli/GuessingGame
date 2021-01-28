@@ -1,0 +1,14 @@
+# Building Folder
+.build
+
+# GNU/Linux and MacOS Build
+main
+
+# Windows Build
+main.exe
+
+# Debugging Symbols
+main.debug
+
+# Build logs
+*.logs

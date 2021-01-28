@@ -1,0 +1,12 @@
+Generate a Random Number N
+While guess is not N: // can replace with any loop
+    ask user for guess
+    if guess > N:
+        print Guess is Greater.
+    else if guess < N:
+        print Guess is Lesser.
+    else if guess == N:
+        print You have successfully guessed the number.
+        exit loop 
+
+exit program
